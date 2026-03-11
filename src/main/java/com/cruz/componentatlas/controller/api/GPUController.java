@@ -1,4 +1,4 @@
-package com.cruz.componentatlas.controller;
+package com.cruz.componentatlas.controller.api;
 
 import com.cruz.componentatlas.entity.GPU;
 import com.cruz.componentatlas.repository.GPURepository;
